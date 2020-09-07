@@ -30,7 +30,7 @@ function App() {
             <Route path="/history" component={History}/>
             <Route path="/about" exact component={About}/>
             <Route path="/login" exact component={Login}/>
-            <Route path="/Register" exact component={Register}/>
+            <Route path="/register" exact component={Register}/>
           </Switch>
         </Suspense>
       </main>
