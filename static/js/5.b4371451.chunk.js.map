@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/History.js"],"names":["About"],"mappings":"gHAAA,2BAUeA,UARf,WACE,OACE,oCACE","file":"static/js/5.b4371451.chunk.js","sourcesContent":["import React from 'react';\n\nfunction About(){\n  return (\n    <>\n      <h1>History</h1>\n    </>\n  )\n}\n\nexport default About;"],"sourceRoot":""}

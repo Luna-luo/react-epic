@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-epic"]=this["webpackJsonpreact-epic"]||[]).push([[4],{243:function(e,t,n){"use strict";n.r(t);var a=n(0),c=n.n(a);t.default=function(){return c.a.createElement(c.a.Fragment,null,c.a.createElement("h1",null,"About"))}}}]);
+//# sourceMappingURL=4.732f3de8.chunk.js.map
